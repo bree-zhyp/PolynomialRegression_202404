@@ -18,7 +18,7 @@ Python版本：Python 3.11.4 ('base':conda)
 <img src="figure/逻辑结构.png">
 
 其中：
-- [main.py](main.py) 本次作业的主函数，会在函数中调用三个任务对应的代码。
+- [main.py](main.py) 本次任务的主函数，会在函数中调用三个任务对应的代码。
 
 - [linear_regression_main.py](linear_regression_main.py) 任务一的主函数，调用了最小二乘法、普通梯度下降法、批梯度下降法、小批量梯度下降法、以及随机梯度下降法的函数，最后进行了梯度下降法之间的比较。
 
